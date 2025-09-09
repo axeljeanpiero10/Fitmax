@@ -7,63 +7,57 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-## About Laravel
+Acerca de Laravel
+Laravel es un marco de trabajo para aplicaciones web con una sintaxis expresiva y elegante. Creemos que el desarrollo debe ser una experiencia agradable y creativa para que resulte verdaderamente satisfactorio. Laravel facilita el desarrollo al simplificar las tareas comunes que se utilizan en muchos proyectos web, tales como:
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+Motor de enrutamiento sencillo y rápido.
+Potente contenedor de inyección de dependencias.
+Múltiples back-ends para el almacenamiento de sesiones y caché.
+ORM de base de datos expresivo e intuitivo.
+Migraciones de esquemas independientes de la base de datos.
+Procesamiento robusto de tareas en segundo plano.
+Difusión de eventos en tiempo real.
+Laravel es accesible, potente y proporciona las herramientas necesarias para aplicaciones grandes y robustas.
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
+Aprender Laravel
+Laravel cuenta con la biblioteca de documentación y tutoriales en vídeo más extensa y completa de todos los marcos de aplicaciones web modernos, lo que facilita enormemente el inicio con el marco.
 
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
+También puede probar el Bootcamp de Laravel, donde se le guiará a través de la creación de una aplicación Laravel moderna desde cero.
 
-## Learning Laravel
+Si no le apetece leer, Laracasts puede ayudarle. Laracasts contiene miles de tutoriales en vídeo sobre una amplia gama de temas, incluyendo Laravel, PHP moderno, pruebas unitarias y JavaScript. Mejore sus habilidades profundizando en nuestra completa biblioteca de vídeos.
 
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
+Patrocinadores de Laravel
+Nos gustaría expresar nuestro agradecimiento a los siguientes patrocinadores por financiar el desarrollo de Laravel. Si está interesado en convertirse en patrocinador, visite el programa Laravel Partners.
 
-You may also try the [Laravel Bootcamp](https://bootcamp.laravel.com), where you will be guided through building a modern Laravel application from scratch.
+Socios premium
+Vehikl
+Tighten Co.
+WebReinvent
+Kirschbaum Development Group
+64 Robots
+Curotec
 
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains thousands of video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
 
-## Laravel Sponsors
+Cyber-Duck
+DevSquad
+Jump24
+Redberry
+Active Logic
+byte5
+OP.GG
+Contribuciones
+¡Gracias por considerar contribuir al framework Laravel! La guía de contribuciones se puede encontrar en la documentación de Laravel.
 
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the [Laravel Partners program](https://partners.laravel.com).
+Código de conducta
+Para garantizar que la comunidad Laravel sea acogedora para todos, revisa y respeta el Código de conducta.
 
-### Premium Partners
+Vulnerabilidades de seguridad
+Si descubres una vulnerabilidad de seguridad en Laravel, envía un correo electrónico a Taylor Otwell a través de taylor@laravel.com. Todas las vulnerabilidades de seguridad se abordarán con prontitud.
 
-- **[Vehikl](https://vehikl.com/)**
-- **[Tighten Co.](https://tighten.co)**
-- **[WebReinvent](https://webreinvent.com/)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Curotec](https://www.curotec.com/services/technologies/laravel/)**
-- **[Cyber-Duck](https://cyber-duck.co.uk)**
-- **[DevSquad](https://devsquad.com/hire-laravel-developers)**
-- **[Jump24](https://jump24.co.uk)**
-- **[Redberry](https://redberry.international/laravel/)**
-- **[Active Logic](https://activelogic.com)**
-- **[byte5](https://byte5.de)**
-- **[OP.GG](https://op.gg)**
+Licencia
+El framework Laravel es un software de código abierto con licencia MIT.
 
-## Contributing
-
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
-
-## Code of Conduct
-
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
-
-## Security Vulnerabilities
-
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
-
-## License
-
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
+Traducción realizada con la versión gratuita del traductor DeepL.com
 
 <p align="center">
 <a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
